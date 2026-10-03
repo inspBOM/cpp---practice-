@@ -1,0 +1,7 @@
+#include <iostream>
+using namespace std;
+
+int main () {
+    cout<< " hello GitHub \n" ;
+  return 0;
+ }
