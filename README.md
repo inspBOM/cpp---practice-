@@ -1,2 +1,2 @@
 # cpp---practice-
-My C++ programming practice during CS vacation 2026
+Updated README for my C++ practice
